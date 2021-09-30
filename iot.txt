@@ -1,3 +1,2 @@
-send photo to 123
-turn on pin (17,2000)
-send photo to 456
+send photo to hari8haran8@gmail.com
+turn on pin(17,3000)
