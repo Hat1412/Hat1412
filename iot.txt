@@ -1,2 +1,0 @@
-send photo to hari8haran8@gmail.com
-turn on pin(17,3000)
