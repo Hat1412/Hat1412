@@ -1,1 +1,1 @@
-LED 18 5000
+Led 18 ON For  2
