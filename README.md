@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hat1412 but You can call me Hat
-- 👀 I’m interested in Python and Mysql
+- 👀 I am a backend programmer who knows Python and Mysql
 
 
 <pre>
