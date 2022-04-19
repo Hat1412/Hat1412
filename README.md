@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Hat1412 but You can call me Hat
-- 👀 I am a backend programmer who knows Python and Mysql
-
+- 👀 I know Python and Mysql
+- 🐵 I'm Learning Web Devolpment
+- 🐉 Also See my Blender Projects
 
 <pre>
 Contact me at: </br>
