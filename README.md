@@ -1,7 +1,6 @@
 - 🐶 Hi, I’m @Hat1412 but You can call me Hat
 - 🦊 I know Python and Mysql
-- 🐵 I'm Learning Web Devolpment
-- 🐉 Also See my Blender Projects
+- 🐵 I'm Learning Web Devolpment,R
 
 
 </br>
