@@ -6,7 +6,7 @@
 
 </br>
 
-Contact me at: </br>
-    Reddit: <strong> u/Hat1412 </strong>
-    Instagram: <strong> https://www.instagram.com/hari8haran8/ </strong>
+Contact me at: </br></br>
+ &nbsp; &nbsp; &nbsp; &nbsp; Reddit: https://www.reddit.com/user/Hat1412/ </br>
+  &nbsp; &nbsp; &nbsp; &nbsp; Instagram: <strong> https://www.instagram.com/hari8haran8/ </strong>
 
