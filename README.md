@@ -5,8 +5,8 @@
 
 
 </br>
-<pre>
+
 Contact me at: </br>
     Reddit: <strong> u/Hat1412 </strong>
     Instagram: <strong> https://www.instagram.com/hari8haran8/ </strong>
-</pre>
+
